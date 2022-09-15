@@ -1,7 +1,5 @@
 # Mybatis-Plus笔记
 
-# 相关代码见[F:\Java Web\SpringBoot2\mybatis-plus](F:\Java Web\SpringBoot2\mybatis-plus)
-
 # 1、使用方法
 
 1. pom.xml中引入Mybatis-plus以及mysql驱动依赖
